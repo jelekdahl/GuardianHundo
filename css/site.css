@@ -60,3 +60,11 @@ footer .bi:hover {
   border-radius: 15px;
   /* box-shadow: ; */
 }
+
+.even {
+  font-weight: bold;
+}
+
+.odd {
+  color: red !important;
+}
